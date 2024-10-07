@@ -1,0 +1,10 @@
+C:\Users\luist\source\repos\SimpleGarage\SimpleGarage\bin\Debug\netstandard2.1\SimpleGarage.deps.json
+C:\Users\luist\source\repos\SimpleGarage\SimpleGarage\bin\Debug\netstandard2.1\SimpleGarage.dll
+C:\Users\luist\source\repos\SimpleGarage\SimpleGarage\bin\Debug\netstandard2.1\SimpleGarage.pdb
+C:\Users\luist\source\repos\SimpleGarage\SimpleGarage\obj\Debug\netstandard2.1\SimpleGarage.csproj.AssemblyReference.cache
+C:\Users\luist\source\repos\SimpleGarage\SimpleGarage\obj\Debug\netstandard2.1\SimpleGarage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luist\source\repos\SimpleGarage\SimpleGarage\obj\Debug\netstandard2.1\SimpleGarage.AssemblyInfoInputs.cache
+C:\Users\luist\source\repos\SimpleGarage\SimpleGarage\obj\Debug\netstandard2.1\SimpleGarage.AssemblyInfo.cs
+C:\Users\luist\source\repos\SimpleGarage\SimpleGarage\obj\Debug\netstandard2.1\SimpleGarage.csproj.CoreCompileInputs.cache
+C:\Users\luist\source\repos\SimpleGarage\SimpleGarage\obj\Debug\netstandard2.1\SimpleGarage.dll
+C:\Users\luist\source\repos\SimpleGarage\SimpleGarage\obj\Debug\netstandard2.1\SimpleGarage.pdb

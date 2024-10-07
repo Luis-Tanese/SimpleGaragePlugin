@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SimpleGarage</id>
+    <version>0.1.0</version>
+    <authors>SimpleGarage</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>Package Description</description>
+    <tags>openmod openmod-plugin unturned</tags>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.1">
+        <dependency id="OpenMod.Unturned" version="3.8.10" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\luist\source\repos\SimpleGarage\SimpleGarage\bin\Debug\netstandard2.1\SimpleGarage.dll" target="lib\netstandard2.1\SimpleGarage.dll" />
+  </files>
+</package>
